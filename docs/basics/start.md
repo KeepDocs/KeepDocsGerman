@@ -1,7 +1,7 @@
 ! [Intro](/assets/images/keepdocgraf.jpg)
 
 
-# Am Anfang
+# Start
 In diesem Handbuch finden Sie alle Informationen, die Sie benötigen, um ein Keep Network Staker zu werden und Belohnungen zu verdienen.
 
 ## Allgemeine Beschreibung - TL;DR
