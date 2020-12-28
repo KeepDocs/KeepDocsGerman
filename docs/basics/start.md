@@ -1,4 +1,4 @@
-! [Intro](/assets/images/keepdocgraf.jpg)
+![Intro](/assets/images/keepdocgraf.jpg)
 
 
 # Start
